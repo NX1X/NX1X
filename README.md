@@ -1,5 +1,4 @@
-##DevOps Engineer
-**Infrastructure Enthusiast and Security Minded**
+**DevOps Engineer, Infrastructure Enthusiast and Security Minded**
 
 I'm deeply focused on enhancing productivity and efficiency in all aspects of my work.
 
