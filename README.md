@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- Follow me on [Twitter](https://twitter.com/yourusername)
+- My work on [Medium](https://medium.com/@yourusername)
