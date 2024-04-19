@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**NX1X/NX1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,16 +15,14 @@ Here are some ideas to get you started:
 
 
 
-# Welcome to my page!
-
-## nx1x, DevOps Engineer
+##DevOps Engineer
 **Infrastructure Enthusiast and Security Minded**
 
 I'm deeply focused on enhancing productivity and efficiency in all aspects of my work.
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [GitHub](https://github.com/yourgithubusername)
+- [LinkedIn](https://www.linkedin.com/in/edenporat)
+- [GitHub](https://github.com/nx1x)
 
 ### Technologies I work with:
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
