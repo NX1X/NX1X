@@ -25,8 +25,8 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 - [Zest](https://zest.is/) - Aquired by WalkMe for  
 
 ### Security breaches I found & reported:
-- [Shufersal - Biggest ](https://shufersal.co.il)
+- [Shufersal - Largest supermarket corporation in ISrael ](https://shufersal.co.il)
 - [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
-- Ben Gurion University
-- Tel Aviv University
+- [Ben Gurion University](https://bgu.ac.il)
+- [Tel Aviv University](https://tau.ac.il)
 
