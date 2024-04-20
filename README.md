@@ -13,7 +13,7 @@ I'm deeply focused on enhancing productivity and efficiency in all aspects of my
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ClickUp_Logo_%28light_background%29.png" alt="ClickUp" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/monday.svg" alt="Monday.com" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/google-calendar.png" alt="Google Calendar" width="40" height="40"/>
 
 ### Security Tools I Work With:
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Microsoft_Defender_logo.svg" alt="Microsoft Defender Tools" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/action1.svg" alt="Action1 Software" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Trellix_Wordmark.svg" alt="Trellix" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/wazuh.svg" alt="Wazuh" width="40" height="40"/>
+<img src="https://icons8.com/icon/YztviYmQLfhl/windows-defender" alt="Microsoft Defender Tools" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/action1.svg" alt="Action1 Software" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Trellix_Wordmark.svg" alt="Trellix" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/wazuh.svg" alt="Wazuh" width="40" height="40"/>
 
 ### About Me
 As a DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
