@@ -19,14 +19,14 @@ I'm deeply focused on enhancing productivity and efficiency in all aspects of my
 As a DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
 
 ### Beta tester at:
-- DigitalZen - Current
-- SayMine.com - Raised more than $42M 
-- DuckDuckGo
-- Zesty - Aquired by WalkMe for  
+- [DigitalZen](https://www.digitalzen.app/) - Active participant
+- [SayMine.com](https://www.saymine.com/) - Raised more than $42M 
+- [DuckDuckGo app protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/)
+- [Zest](https://zest.is/) - Aquired by WalkMe for  
 
 ### Security breaches I found & reported:
-- [Shufersal](https://shufersal.co.il)
-- Mey7
+- [Shufersal - Biggest ](https://shufersal.co.il)
+- [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
 - Ben Gurion University
 - Tel Aviv University
 
