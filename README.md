@@ -22,7 +22,7 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 ### Beta tester at:
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
 - [SayMine.com](https://www.saymine.com/) - Raised more than $42M
-- [DuckDuckGo app protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, Raised more than $170M
+- [DuckDuckGo app protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
 - [Zest](https://zest.is/) - Aquired by WalkMe
 
 ### Security breaches I found & reported:
