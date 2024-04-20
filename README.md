@@ -18,10 +18,15 @@ I'm deeply focused on enhancing productivity and efficiency in all aspects of my
 ### About Me:
 As a DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
 
-Security breaches I found:
-
-Beta at:
+### Beta tester at:
 DigitalZen - Current
-SayMine.com
+SayMine.com - Raised more than $42M 
 DuckDuckGo
-Zesty
+Zesty - Aquired by WalkMe for  
+
+### Security breaches I found & reported:
+Shufersal
+Mey7
+Ben Gurion University
+Tel Aviv University
+
