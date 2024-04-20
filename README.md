@@ -1,6 +1,6 @@
 **DevOps Engineer, Infrastructure Enthusiast and Security Minded**
 
-I'm deeply focused on enhancing productivity and efficiency in all aspects of my work.
+I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
