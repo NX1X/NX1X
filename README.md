@@ -1,7 +1,7 @@
 **DevOps Engineer, Infrastructure Enthusiast, and Security Minded**
 
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
-- But, tech is not the only thing. Before tech, I'm a people's person and believe in team work. Every achievement is way more meaningful when you do it together. In Hebrew: "ביחד ננצח".
+- But, tech is not the only thing. Before tech, I'm a people's person and believe in team work. Every achievement is way more meaningful when you do it together. In Hebrew: ["ביחד ננצח"](https://www.facebook.com/AcademyOfTheHebrewLanguage/posts/740858828078898/).
 
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
