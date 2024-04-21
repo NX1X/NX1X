@@ -33,7 +33,7 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 - [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
 - [Ben Gurion University](https://bgu.ac.il)
 - [Tel Aviv University](https://tau.ac.il)
-- Reported to [The Israeli Cert Authority](cyber.gov.il) at [119@cyber.gov.il](119@cyber.gov.il) (You can too) and [Erez Dasa, a leading Telegram cyber security channel](https://t.me/CyberSecurityIL) owner and a cyber authority (
+- Reported to [The Israeli Cert Authority](https://cyber.gov.il) at [119@cyber.gov.il](mailto:119@cyber.gov.il) (You can too) and [Erez Dasa, a leading Telegram Cyber Security channel](https://t.me/CyberSecurityIL) owner and a cyber expert.
 
 ### Projects I contributed to:
 - [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers led by [@Yuval Press](https://github.com/yuvalpress)
