@@ -27,7 +27,7 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
 - [SayMine.com](https://www.saymine.com/) - Raised more than $42M
 - [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
-- [Zest](https://zest.is/) - Aquired by [WalkMe](https://www.walkme.com)
+- [Zest](https://zest.is/) - Acquired by [WalkMe](https://www.walkme.com)
 
 ### Security breaches I found & reported:
 - [Shufersal - Largest supermarket corporation in Israel ](https://shufersal.co.il)
