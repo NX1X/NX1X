@@ -20,13 +20,13 @@ I'm deeply focused on enhancing productivity and efficiency in all aspects of my
 As a DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
 
 ### Projects I maintain:
-- [Ziggi](ziggi.bgu4u.co.il) - Courses schedule simulation system for [Ben Gurion University (BGU)](https://bgu.ac.il) students. Ziggi serves 20,000 students (all of BGU), hosted on Microsoft Azure infrastructure. 
+- [Ziggi](https://ziggi.bgu4u.co.il) - Courses schedule simulation system for [Ben Gurion University (BGU)](https://bgu.ac.il) students. Ziggi serves 20,000 students (all of BGU), hosted on Microsoft Azure infrastructure. 
 
 ### Beta tester at:
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
 - [SayMine.com](https://www.saymine.com/) - Raised more than $42M
-- [DuckDuckGo app protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
-- [Zest](https://zest.is/) - Aquired by WalkMe
+- [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
+- [Zest](https://zest.is/) - Aquired by [WalkMe](https://www.walkme.com)
 
 ### Security breaches I found & reported:
 - [Shufersal - Largest supermarket corporation in Israel ](https://shufersal.co.il)
@@ -35,5 +35,5 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 - [Tel Aviv University](https://tau.ac.il)
 
 ### Projects I contributed to:
-- [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers
-- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository
+- [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers led by [@Yuval Press](https://github.com/yuvalpress)
+- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: Recommended extensions in VSCode.
