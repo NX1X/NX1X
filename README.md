@@ -37,5 +37,5 @@ As a Junior DevOps Engineer, I am passionate about building and maintaining reli
 - Reported to [The Israeli Cert Authority](https://cyber.gov.il) at [119@cyber.gov.il](mailto:119@cyber.gov.il) (You can too) and [Erez Dasa, a leading Telegram Cyber Security channel](https://t.me/CyberSecurityIL) owner and a cyber expert.
 
 ### Projects I contributed to:
-- [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers led by [@Yuval Press](https://github.com/yuvalpress)
+- [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to Junior DevOps Engineers led by [@Yuval Press](https://github.com/yuvalpress)
 - [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: [Recommended extensions in VSCode](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions).
