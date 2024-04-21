@@ -1,7 +1,6 @@
 **Junior DevOps Engineer, Infrastructure Enthusiast, and Security Minded**
 - Ex-System Administrator mixed with security and IT department management.
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
-- But, tech is not the only thing. Before we talk about tech, I'm a people's person and believe in teamwork. Every achievement is way more meaningful when you do it together. In Hebrew: ["ביחד ננצח"](https://www.facebook.com/AcademyOfTheHebrewLanguage/posts/740858828078898/).
 
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
