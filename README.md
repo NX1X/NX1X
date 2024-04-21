@@ -1,7 +1,7 @@
-**DevOps Engineer, Infrastructure Enthusiast, and Security Minded**
-
+**Junior DevOps Engineer, Infrastructure Enthusiast, and Security Minded**
+- Ex-System Administrator and IT Manager.
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
-- But, tech is not the only thing. Before tech, I'm a people's person and believe in team work. Every achievement is way more meaningful when you do it together. In Hebrew: ["ביחד ננצח"](https://www.facebook.com/AcademyOfTheHebrewLanguage/posts/740858828078898/).
+- But, tech is not the only thing. Before we talk about tech, I'm a people's person and believe in teamwork. Every achievement is way more meaningful when you do it together. In Hebrew: ["ביחד ננצח"](https://www.facebook.com/AcademyOfTheHebrewLanguage/posts/740858828078898/).
 
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
@@ -18,7 +18,7 @@
 <img src="https://seeklogo.com/images/M/microsoft-defender-logo-2CAFCABADD-seeklogo.com.png" alt="Microsoft Defender Tools" width="40" height="45"/> <img src="https://styles.redditmedia.com/t5_2rcf3t/styles/communityIcon_cm8nw2ckth451.png?width=256&s=f1673a25e54dd23fe6d84e103a6666dadb27de82" alt="Action1 Software" width="70" height="40"/> <img src="https://seeklogo.com/images/T/trellix-logo-E6ABB6486D-seeklogo.com.png" alt="Trellix" width="65" height="30"/> <img src="https://benheater.com/content/images/2022/06/wazuh_logo_circle-1.png" alt="Wazuh" width="50" height="50"/>
 
 ### About Me:
-As a DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
+As a Junior DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
 
 ### Projects I maintain:
 - [Ziggi](https://ziggi.bgu4u.co.il) - Courses schedule simulation system for [Ben Gurion University (BGU)](https://bgu.ac.il) students. Ziggi serves all of BGU students (More than 20K), hosted on Microsoft Azure infrastructure. 
