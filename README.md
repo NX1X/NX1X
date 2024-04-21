@@ -31,3 +31,6 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 - [Ben Gurion University](https://bgu.ac.il)
 - [Tel Aviv University](https://tau.ac.il)
 
+### Projects I contributed to:
+- [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers
+- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository
