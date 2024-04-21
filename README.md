@@ -36,4 +36,4 @@ As a DevOps Engineer, I am passionate about building and maintaining reliable in
 
 ### Projects I contributed to:
 - [Entrypoint community](https://github.com/entrypoint-community/) - A community dedicated to junior DevOps engineers led by [@Yuval Press](https://github.com/yuvalpress)
-- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: Recommended extensions in VSCode.
+- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: [Recommended extensions in VSCode](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions).
