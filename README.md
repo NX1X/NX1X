@@ -15,7 +15,7 @@
 
 ### Security Tools I Work With:
 <img src="https://seeklogo.com/images/M/microsoft-defender-logo-2CAFCABADD-seeklogo.com.png" alt="Microsoft Defender Tools" width="40" height="45"/> <img src="https://styles.redditmedia.com/t5_2rcf3t/styles/communityIcon_cm8nw2ckth451.png?width=256&s=f1673a25e54dd23fe6d84e103a6666dadb27de82" alt="Action1 Software" width="70" height="40"/> <img src="https://seeklogo.com/images/T/trellix-logo-E6ABB6486D-seeklogo.com.png" alt="Trellix" width="65" height="30"/> <img src="https://benheater.com/content/images/2022/06/wazuh_logo_circle-1.png" alt="Wazuh" width="50" height="50"/> <img src="https://logowik.com/content/uploads/images/snyk7340.jpg" alt="Snyk" width="40" height="40"/>
-
+- Projects I build are scanned for vulnerabilities with [SNYK.io](https://snyk.io)
 ### About Me:
 As a Junior DevOps Engineer, I am passionate about building and maintaining reliable infrastructure and ensuring that security is integrated into all facets of the technology lifecycle. My drive for productivity and efficiency is complemented by my use of tools like JIRA, Google Calendar, ClickUp, and Monday.com to keep projects on track and streamlined.
 
