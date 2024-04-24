@@ -1,4 +1,4 @@
-**Junior DevOps Engineer, Infrastructure Enthusiast, and Security Minded**
+### Junior DevOps Engineer, Infrastructure Enthusiast, and Security Minded
 - Ex-System Administrator mixed with security and IT department management.
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
 
