@@ -5,7 +5,7 @@
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
 - [GitHub](https://github.com/nx1x)
-- [Website - NX1X Lab](https://nx1xlab.com)
+- [Website - NX1X Lab](https://nx1xlab.dev)
 
 ### Technologies I work with:
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> <img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" alt="New Relic" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
