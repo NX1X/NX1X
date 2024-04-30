@@ -3,6 +3,7 @@
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
 
 ### Connect with Me:
+- contact@nx1xlab.dev
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
 - [GitHub](https://github.com/nx1x)
 - [Website - NX1X Lab](https://nx1xlab.dev)
