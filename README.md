@@ -39,3 +39,6 @@ As a Junior DevOps Engineer, I am passionate about building and maintaining reli
 ### Projects I contributed to:
 - [Entrypoint Community](https://github.com/entrypoint-community/) - A community dedicated to Junior DevOps Engineers led by [@Yuval Press](https://github.com/yuvalpress)
 - [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: [Recommended extensions in VSCode](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions).
+
+### Fun fact:
+- I'm a Google Maps Contributor since 2018 with over 70 million views of my contributions. 
