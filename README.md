@@ -34,8 +34,8 @@ As a Junior DevOps Engineer, I am passionate about building and maintaining reli
 - [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
 - [Ben Gurion University](https://bgu.ac.il)
 - [Tel Aviv University](https://tau.ac.il)
-- Reporting to [INCD (Israel National Cyber Directorate)](https://cyber.gov.il) at [119@cyber.gov.il](mailto:119@cyber.gov.il), [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il) (You can too).
-- Reporting to [Erez Dasa, a leading Telegram Cyber Security channel owner](https://t.me/CyberSecurityIL) and a cyber expert.
+- Report to [INCD (Israel National Cyber Directorate)](https://cyber.gov.il) at [119@cyber.gov.il](mailto:119@cyber.gov.il) and [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il) (You can too).
+- Report to [Erez Dasa, a leading Telegram Cyber Security channel owner](https://t.me/CyberSecurityIL) and cyber expert.
 
 ### Projects I'm participating in:
 - Member of [The Security Researchers Forum](https://www.gov.il/he/pages/researchrs_forum) in [INCD (Israel National Cyber Directorate)]([https://www.gov.il/he/departments/israel_national_cyber_directorate/govil-landing-page](https://cyber.gov.il)).
