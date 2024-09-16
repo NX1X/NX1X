@@ -1,5 +1,4 @@
-### DevOps Engineer, Infrastructure Enthusiast, and Security Minded
-- Ex-System Administrator mixed with security and IT department management.
+### System Administrator, Infrastructure Enthusiast, Security Minded and DevOps practice oriented.
 - I'm deeply focused on enhancing productivity and efficiency in all aspects of my work and personal life.
 
 ### Connect with Me:
