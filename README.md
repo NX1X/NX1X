@@ -20,9 +20,9 @@
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
 - [SayMine.com](https://www.saymine.com/) - Raised more than $42M
 - [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
-- [Zest](https://zest.is/) - Acquired by [WalkMe](https://www.walkme.com)
+- [Zest](https://zest.is/) - acquired by [WalkMe](https://www.walkme.com)
 
-### Security breaches I found & reported:
+### Security breaches found & reported:
 - [Shufersal - Largest supermarket corporation in Israel ](https://shufersal.co.il)
 - X2 [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
 - [Ben Gurion University](https://bgu.ac.il)
@@ -36,4 +36,4 @@
 - [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: [Recommended extensions in VSCode](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions).
 
 ### Fun fact:
-- I'm a Google Maps Contributor since 2018 with over 70 million views of my contributions. 
+- I have contributed to Google Maps since 2018 and have received more than 70 million views. 
