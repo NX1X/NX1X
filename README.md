@@ -14,7 +14,7 @@
 
 ### Security Tools:
 <img src="https://seeklogo.com/images/M/microsoft-defender-logo-2CAFCABADD-seeklogo.com.png" alt="Microsoft Defender Tools" width="40" height="45"/> <img src="https://styles.redditmedia.com/t5_2rcf3t/styles/communityIcon_cm8nw2ckth451.png?width=256&s=f1673a25e54dd23fe6d84e103a6666dadb27de82" alt="Action1 Software" width="70" height="40"/> <img src="https://seeklogo.com/images/T/trellix-logo-E6ABB6486D-seeklogo.com.png" alt="Trellix" width="65" height="30"/> <img src="https://benheater.com/content/images/2022/06/wazuh_logo_circle-1.png" alt="Wazuh" width="50" height="50"/> <img src="https://logowik.com/content/uploads/images/snyk7340.jpg" alt="Snyk" width="40" height="40"/>
-- Projects I build are scanned for vulnerabilities with [SNYK.io](https://snyk.io)
+- I scan my projects for vulnerabilities with [SNYK.io](https://snyk.io)
 
 ### Beta tester at:
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
