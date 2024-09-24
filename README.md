@@ -3,7 +3,7 @@
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/edenporat)
 - [GitHub](https://github.com/nx1x)
-- [Website - NX1X Lab](https://nx1xlab.dev)
+- [Website](https://nx1xlab.dev)
 - contact@nx1xlab.dev
 
 ### Technologies:
