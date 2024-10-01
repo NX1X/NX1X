@@ -93,4 +93,4 @@ I've been a Google Maps contributor since 2018, with over 70 million views on my
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nx1x&show_icons=true&theme=radical)
