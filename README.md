@@ -1,39 +1,84 @@
-### System Administrator & DevOps Enthusiast, security minded.
+# Eden Porat
+## System Administrator & DevOps Enthusiast | Security-Minded Professional
 
-### Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/edenporat)
-- [GitHub](https://github.com/nx1x)
-- [Website](https://nx1xlab.dev)
-- contact@nx1xlab.dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenporat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nx1x)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nx1xlab.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nx1xlab.dev)
 
-### Technologies:
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> <img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" alt="New Relic" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
+---
 
-### Productivity Tools:
-<img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" width="40" height="40"/> <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" alt="ClickUp" width="35" height="40"/> <img src="https://seeklogo.com/images/M/monday-logo-918DBDD43D-seeklogo.com.png" alt="Monday.com" width="50" height="40"/> <img src="https://seeklogo.com/images/G/google-calendar-logo-62D91A21F7-seeklogo.com.png" alt="Google Calendar" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="40" height="40"/>
+### 🛠️ Technologies & Tools
 
-### Security Tools:
-<img src="https://seeklogo.com/images/M/microsoft-defender-logo-2CAFCABADD-seeklogo.com.png" alt="Microsoft Defender Tools" width="40" height="45"/> <img src="https://styles.redditmedia.com/t5_2rcf3t/styles/communityIcon_cm8nw2ckth451.png?width=256&s=f1673a25e54dd23fe6d84e103a6666dadb27de82" alt="Action1 Software" width="70" height="40"/> <img src="https://seeklogo.com/images/T/trellix-logo-E6ABB6486D-seeklogo.com.png" alt="Trellix" width="65" height="30"/> <img src="https://benheater.com/content/images/2022/06/wazuh_logo_circle-1.png" alt="Wazuh" width="50" height="50"/> <img src="https://logowik.com/content/uploads/images/snyk7340.jpg" alt="Snyk" width="40" height="40"/>
-- I scan my projects for vulnerabilities with [SNYK.io](https://snyk.io)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Beta tester at:
+### 📊 Productivity Tools
+
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🔒 Security Tools
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Action1](https://img.shields.io/badge/Action1-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEbSURBVHgBjZLNTcNAEIXfrB0UgUMkpwNTAaYD6ADTQajA6SBUAFRA6CB0QDpIOkgHzNujN7uOHYvVSKvdmTfffnb8Jnmel6j/MMuyO6i7tm3rvu9P0Kd4BxfQDd7rqqpepDB8HcfxFfoAPYLvbdseyrJ8Jzwi/0ZPCc0k9uARf4PegPtF3Q0RHMqAv9CL53kryQbeA3TOMAxPMH6SA9g7dAb2Crw1TfNJ3FiWZYH+AT1jNLc05BE9QFdwDmg1sKIoSow76Amjt7Zt7bquKwkN3Pfc2qNpmlf42+12O8u+qqoDcSMbpmJZrRDY/I/mzo1eWgGetZJhGAbtImtZhex3weKfAZ9mX5oXWXMqDkjogx6g1/+ML3ZynZUyGM+rAAAAAElFTkSuQmCC&logoColor=white)
+![Trellix](https://img.shields.io/badge/Trellix-00B1E1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADUSURBVHgBnZI9DoJAEIVndhE1HsGGwsLEeANvoDfwBnoD9QR6A2+gN7A38QZ0FhYmbGys+EkGH7CrETWZ5mXe+5jJAPwJIjrBqqpWTdM8wzKKIp0kyUVrvWXmO1jEcZwqpS7GmJaZt/BpqLVOe+MwDHestR7Nfd8/hBYRHUHZqfEBrTHmGobhUynVgTFvTKIoqrvnOSY455b/jDEekyAIHtgMVFX1xGbA9/0jNn9RlmWilCoC5JxTzHwOguDFzA8py/IN2qIotu/QFEWxw/YD3UhvVYAWPEQAAAAASUVORK5CYII=&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1D8BF1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF8SURBVHgBhVK7SgNBFD03u5sQjYqFlX+grZVfoI3fYCHiB1hYKfgLllaCYGFhI1ZWWvkBgpXfYKE2RhPdZO89zp3ZhEhQB86+5t6ZOTOrlNKO+jFN0xV6Ap2FYbjpOM454gJawftQxcLiON4ul8szvu+PG2MWVFVVD+AztPvQPYk5WnkNoePQeTRLyHEEtsUBNqy1Tq1WW4FegPZCUAjkA/Q42t0wLIriGi6Psiz7EJAArYTuPM/3MHLked7YT2Faa8R+GOMCtL9EGYbhGIHvtm27eDEMw4SSJJnR4/H4GvSDgD3P60g0FeX3hWAwu2WNiNMBqn2SUgJZBHAkAPsZxrNAMOZ+dgJSSn9F1LjW5JmM4y9QFEXj0HV5wJn44mj/AQVBcITHFdhekiT3giEYlVK3WZY9+L7/KVfWarWeoHXTNO8IW+MwvAm0IAh6aPUoivYJmWDjj9XKXEHQDcSJUaJr2F/htk/Qh3q9fsXwL+u32+0V6BXc/wXGmG9xFoJBagL+QQAAAABJRU5ErkJggg==&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+> I scan my projects for vulnerabilities with [Snyk.io](https://snyk.io)
+
+---
+
+### 🚀 Beta Tester
+
 - [DigitalZen](https://www.digitalzen.app/) - Active participant
-- [SayMine.com](https://www.saymine.com/) - Raised more than $42M
-- [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy focused search engine, raised more than $170M
-- [Zest](https://zest.is/) - acquired by [WalkMe](https://www.walkme.com)
+- [SayMine.com](https://www.saymine.com/) - Raised over $42M
+- [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy-focused search engine, raised over $170M
+- [Zest](https://zest.is/) - Acquired by [WalkMe](https://www.walkme.com)
 
-### Security breaches found & reported:
-- [Shufersal - Largest supermarket corporation in Israel ](https://shufersal.co.il)
-- X2 [Mey7 - Regional water and sewage corporation](https://mey7.co.il/)
+---
+
+### 🛡️ Security Breaches Found & Reported
+
+- [Shufersal](https://shufersal.co.il) - Largest supermarket corporation in Israel
+- [Mey7](https://mey7.co.il/) (2 instances) - Regional water and sewage corporation
 - [Ben Gurion University](https://bgu.ac.il)
 - [Tel Aviv University](https://tau.ac.il)
-- Reporting to [INCD (Israel National Cyber Directorate)](https://cyber.gov.il) at [119@cyber.gov.il](mailto:119@cyber.gov.il) and [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il) (You can too).
-- Reporting to [Erez Dasa, a leading Telegram Cyber Security channel owner](https://t.me/CyberSecurityIL) and cyber expert.
 
-### Projects I'm participating in:
-- Member of [The Security Researchers Forum](https://www.gov.il/he/pages/researchrs_forum) in [INCD (Israel National Cyber Directorate)]([https://www.gov.il/he/departments/israel_national_cyber_directorate/govil-landing-page](https://cyber.gov.il)).
-- [Entrypoint Community](https://github.com/entrypoint-community/) - A community dedicated to Junior DevOps Engineers led by [@Yuval Press](https://github.com/yuvalpress).
-- [My knowledge hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - I share all of my knowledge and tools in a dedicated repository. Latest tool: [Recommended extensions in VSCode](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions).
+Reporting to:
+- [INCD (Israel National Cyber Directorate)](https://cyber.gov.il)
+  - Email: [119@cyber.gov.il](mailto:119@cyber.gov.il)
+  - [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il)
+- [Erez Dasa](https://t.me/CyberSecurityIL), leading Telegram Cyber Security channel owner and cyber expert
 
-### Fun fact:
-- I have contributed to Google Maps since 2018 and have received more than 70 million views. 
+---
+
+### 🌟 Projects & Contributions
+
+- Member of [The Security Researchers Forum](https://www.gov.il/he/pages/researchrs_forum) at [INCD (Israel National Cyber Directorate)](https://cyber.gov.il)
+- [Entrypoint Community](https://github.com/entrypoint-community/) - A community for Junior DevOps Engineers led by [@Yuval Press](https://github.com/yuvalpress)
+- [My Knowledge Hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - Sharing knowledge and tools. Latest: [Recommended VSCode Extensions](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions)
+
+---
+
+### 🌍 Fun Fact
+
+I've been a Google Maps contributor since 2018, with over 70 million views on my contributions!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nx1x&show_icons=true&theme=radical)
+
