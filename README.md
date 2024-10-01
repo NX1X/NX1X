@@ -31,6 +31,7 @@
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![IBM Tivoli](https://img.shields.io/badge/IBM_Tivoli-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![BackupAssist](https://img.shields.io/badge/BackupAssist-00A98F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEKSURBVHgBjVK7TsMwFLzYDqWqGNiQmBBiYmRhY2DmC/gFPoEfQAz8AUj8AH8AEgOIFSEmJKRKFURTN6T1s304V6K0tJzk+OXl7uz5YcyG8TzvFr6B701oPtAceuu6XozeeYLX67okIqrEcfwqgcsY3/f3UH2Bz9M0vfd9/1ApRYjxoMgS9JIkuYXoEbxAxEWe5xMhmIDTNL1R8Iacc3LQNN1utygDc9M0T5jrqqq6KMsSdfkNTMMwhP6apg8g3vR9z+q6Bkm0bfsO4hvcPziEvwL9DZQ+mQm6rtsry5ITvdI7joM5sYIgYC6ZRWVZsmEYuOM4pC32/ydjzLmUkmVZRlEUEYJjFl3X/QKm1ilj9xOenQAAAABJRU5ErkJggg==&logoColor=white)
+![Dell Servers](https://img.shields.io/badge/Dell_Servers-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
 ### 📊 Productivity Tools
 
