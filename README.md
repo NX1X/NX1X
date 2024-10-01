@@ -27,14 +27,18 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TSM Tivoli](https://img.shields.io/badge/TSM_Tivoli-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![BackupAssist](https://img.shields.io/badge/BackupAssist-00A98F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEKSURBVHgBjVK7TsMwFLzYDqWqGNiQmBBiYmRhY2DmC/gFPoEfQAz8AUj8AH8AEgOIFSEmJKRKFURTN6T1s304V6K0tJzk+OXl7uz5YcyG8TzvFr6B701oPtAceuu6XozeeYLX67okIqrEcfwqgcsY3/f3UH2Bz9M0vfd9/1ApRYjxoMgS9JIkuYXoEbxAxEWe5xMhmIDTNL1R8Iacc3LQNN1utygDc9M0T5jrqqq6KMsSdfkNTMMwhP6apg8g3vR9z+q6Bkm0bfsO4hvcPziEvwL9DZQ+mQm6rtsry5ITvdI7joM5sYIgYC6ZRWVZsmEYuOM4pC32/ydjzLmUkmVZRlEUEYJjFl3X/QKm1ilj9xOenQAAAABJRU5ErkJggg==&logoColor=white)
 
 ### 📊 Productivity Tools
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
 
 ### 🔒 Security Tools
 
