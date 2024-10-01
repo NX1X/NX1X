@@ -1,5 +1,4 @@
-# Eden Porat
-## System Administrator & DevOps Enthusiast | Security-Minded Professional
+## System Administrator & DevOps Enthusiast | Security-Minded Professional | AI & ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenporat)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nx1x)
@@ -12,13 +11,19 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
@@ -37,6 +42,8 @@
 ![Trellix](https://img.shields.io/badge/Trellix-00B1E1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADUSURBVHgBnZI9DoJAEIVndhE1HsGGwsLEeANvoDfwBnoD9QR6A2+gN7A38QZ0FhYmbGys+EkGH7CrETWZ5mXe+5jJAPwJIjrBqqpWTdM8wzKKIp0kyUVrvWXmO1jEcZwqpS7GmJaZt/BpqLVOe+MwDHestR7Nfd8/hBYRHUHZqfEBrTHmGobhUynVgTFvTKIoqrvnOSY455b/jDEekyAIHtgMVFX1xGbA9/0jNn9RlmWilCoC5JxTzHwOguDFzA8py/IN2qIotu/QFEWxw/YD3UhvVYAWPEQAAAAASUVORK5CYII=&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-1D8BF1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF8SURBVHgBhVK7SgNBFD03u5sQjYqFlX+grZVfoI3fYCHiB1hYKfgLllaCYGFhI1ZWWvkBgpXfYKE2RhPdZO89zp3ZhEhQB86+5t6ZOTOrlNKO+jFN0xV6Ap2FYbjpOM454gJawftQxcLiON4ul8szvu+PG2MWVFVVD+AztPvQPYk5WnkNoePQeTRLyHEEtsUBNqy1Tq1WW4FegPZCUAjkA/Q42t0wLIriGi6Psiz7EJAArYTuPM/3MHLked7YT2Faa8R+GOMCtL9EGYbhGIHvtm27eDEMw4SSJJnR4/H4GvSDgD3P60g0FeX3hWAwu2WNiNMBqn2SUgJZBHAkAPsZxrNAMOZ+dgJSSn9F1LjW5JmM4y9QFEXj0HV5wJn44mj/AQVBcITHFdhekiT3giEYlVK3WZY9+L7/KVfWarWeoHXTNO8IW+MwvAm0IAh6aPUoivYJmWDjj9XKXEHQDcSJUaJr2F/htk/Qh3q9fsXwL+u32+0V6BXc/wXGmG9xFoJBagL+QQAAAABJRU5ErkJggg==&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![MX Toolbox](https://img.shields.io/badge/MX_Toolbox-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgBjZK/SgNBEMZ/e3uXQIQUKUwhiI1gY2FjYeEDiJVPIFj4AhaC+AaCjY8gPoCNjYVoI4iFlSAopPAvJHe7O+OsXkhiEgeWnZlvvvl2bkVVKTvOuQYwBXSMMYdlO1K280+QUsBr4yk/KQTvfeN6Y/PeGFOLouhmOBw2VXXCGEOapniPIRBPqrpkVDVX1YvR6P0GaItIxVqLiGCMsC+ZTJwAiAipOkxW8IW3QWbP+6PyPfpOOpCXZJKWUTXAGuQ7/usrs0T+I890ANZRtT+rU2vXoXNc8V5MzXBti8Hd0qLqkqqm2mUfOAHOgZU8Dy1AB9gCzowxw+AfeWWQ7qBOpx9Oq13gEHjg3zoBPmtc0TjXTvMAAAAASUVORK5CYII=&logoColor=white)
 
 > I scan my projects for vulnerabilities with [Snyk.io](https://snyk.io)
 
@@ -74,11 +81,16 @@ Reporting to:
 
 ---
 
+### 🧠 AI & ML Enthusiast
+
+Passionate about exploring the latest advancements in Artificial Intelligence and Machine Learning, with a focus on their applications in cybersecurity and DevOps.
+
+---
+
 ### 🌍 Fun Fact
 
 I've been a Google Maps contributor since 2018, with over 70 million views on my contributions!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nx1x&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
