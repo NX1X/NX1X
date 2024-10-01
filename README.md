@@ -81,7 +81,7 @@ Reporting to:
 
 ---
 
-### 🧠 AI & ML Enthusiast
+### 🧠 AI & ML Fan
 
 Passionate about exploring the latest advancements in Artificial Intelligence and Machine Learning, with a focus on their applications in cybersecurity and DevOps.
 
