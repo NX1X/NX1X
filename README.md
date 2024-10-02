@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nx1x)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nx1xlab.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nx1xlab.dev)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NX1XLab)
 ---
 
 ### 🛠️ Technologies & Tools
@@ -53,6 +53,19 @@
 ![MX Toolbox](https://img.shields.io/badge/MX_Toolbox-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgBjZK/SgNBEMZ/e3uXQIQUKUwhiI1gY2FjYeEDiJVPIFj4AhaC+AaCjY8gPoCNjYVoI4iFlSAopPAvJHe7O+OsXkhiEgeWnZlvvvl2bkVVKTvOuQYwBXSMMYdlO1K280+QUsBr4yk/KQTvfeN6Y/PeGFOLouhmOBw2VXXCGEOapniPIRBPqrpkVDVX1YvR6P0GaItIxVqLiGCMsC+ZTJwAiAipOkxW8IW3QWbP+6PyPfpOOpCXZJKWUTXAGuQ7/usrs0T+I890ANZRtT+rU2vXoXNc8V5MzXBti8Hd0qLqkqqm2mUfOAHOgZU8Dy1AB9gCzowxw+AfeWWQ7qBOpx9Oq13gEHjg3zoBPmtc0TjXTvMAAAAASUVORK5CYII=&logoColor=white)
 
 > I scan my projects for vulnerabilities with [Snyk.io](https://snyk.io)
+
+
+### 🧠 AI and ML Tools
+
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-5835CC?style=for-the-badge&logo=perplexity&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-00FFFF?style=for-the-badge&logo=cursor&logoColor=black)
+![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
+
+#### Currently Exploring
+![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
