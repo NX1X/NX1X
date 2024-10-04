@@ -96,7 +96,7 @@ Reporting to:
 
 - Member of [The Security Researchers Forum](https://www.gov.il/he/pages/researchrs_forum) at [INCD (Israel National Cyber Directorate)](https://cyber.gov.il)
 - [Entrypoint Community](https://github.com/entrypoint-community/) - A community for Junior DevOps Engineers led by [@Yuval Press](https://github.com/yuvalpress)
-- [My Knowledge Hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub) - Sharing knowledge and tools. Latest: [Recommended VSCode Extensions](https://github.com/NX1X/NX1X-Lab-knowledge-hub/tree/main/VSCode%20extensions)
+- [VSShare](https://github.com/NX1X/CSShare) - VSShare will help you share your best VSCode extensions with your colleagus.
 
 ---
 
