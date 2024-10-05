@@ -21,10 +21,7 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -34,11 +31,18 @@
 ![BackupAssist](https://img.shields.io/badge/BackupAssist-00A98F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEKSURBVHgBjVK7TsMwFLzYDqWqGNiQmBBiYmRhY2DmC/gFPoEfQAz8AUj8AH8AEgOIFSEmJKRKFURTN6T1s304V6K0tJzk+OXl7uz5YcyG8TzvFr6B701oPtAceuu6XozeeYLX67okIqrEcfwqgcsY3/f3UH2Bz9M0vfd9/1ApRYjxoMgS9JIkuYXoEbxAxEWe5xMhmIDTNL1R8Iacc3LQNN1utygDc9M0T5jrqqq6KMsSdfkNTMMwhP6apg8g3vR9z+q6Bkm0bfsO4hvcPziEvwL9DZQ+mQm6rtsry5ITvdI7joM5sYIgYC6ZRWVZsmEYuOM4pC32/ydjzLmUkmVZRlEUEYJjFl3X/QKm1ilj9xOenQAAAABJRU5ErkJggg==&logoColor=white)
 ![Dell Servers](https://img.shields.io/badge/Dell_Servers-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
+#### Currently Exploring
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+
 ### 📊 Productivity Tools
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
+![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
 
