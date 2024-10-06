@@ -90,7 +90,7 @@ Aside from using these tools at work, I'm also setting up a home lab. **[Home La
 Reporting to:
 - [INCD (Israel National Cyber Directorate)](https://cyber.gov.il)
   - Email: [119@cyber.gov.il](mailto:119@cyber.gov.il)
-  - [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il)
+  - [Vulnerability Reporting Form](https://govforms.gov.il/mw/forms/Vulnerability@Cyber.gov.il?displang=en#!vulDet)
 - [Erez Dasa](https://t.me/CyberSecurityIL), leading Telegram Cyber Security channel owner and cyber expert
 
 ---
