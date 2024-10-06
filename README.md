@@ -34,6 +34,8 @@
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
+Aside from using these tools at work, I'm also setting up a home lab. Home Lab Repository Link. [Home Lab Repository Link](https://github.com/NX1X/My-Home-Lab). 
+
 ### 🔒 Security Tools
 
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
