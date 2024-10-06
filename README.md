@@ -37,15 +37,6 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 
-### 📊 Productivity Tools
-
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
-![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
-
 ### 🔒 Security Tools
 
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -57,6 +48,16 @@
 ![MX Toolbox](https://img.shields.io/badge/MX_Toolbox-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgBjZK/SgNBEMZ/e3uXQIQUKUwhiI1gY2FjYeEDiJVPIFj4AhaC+AaCjY8gPoCNjYVoI4iFlSAopPAvJHe7O+OsXkhiEgeWnZlvvvl2bkVVKTvOuQYwBXSMMYdlO1K280+QUsBr4yk/KQTvfeN6Y/PeGFOLouhmOBw2VXXCGEOapniPIRBPqrpkVDVX1YvR6P0GaItIxVqLiGCMsC+ZTJwAiAipOkxW8IW3QWbP+6PyPfpOOpCXZJKWUTXAGuQ7/usrs0T+I890ANZRtT+rU2vXoXNc8V5MzXBti8Hd0qLqkqqm2mUfOAHOgZU8Dy1AB9gCzowxw+AfeWWQ7qBOpx9Oq13gEHjg3zoBPmtc0TjXTvMAAAAASUVORK5CYII=&logoColor=white)
 
 > I scan my projects for vulnerabilities with [Snyk.io](https://snyk.io)
+
+
+### 📊 Productivity Tools
+
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
+![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
 
 
 ### 🧠 AI and ML Tools
