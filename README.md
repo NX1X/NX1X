@@ -31,7 +31,6 @@
 ![Dell Servers](https://img.shields.io/badge/Dell_Servers-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 Aside from using these tools at work, I'm also setting up a home lab. **[Home Lab Repository Link](https://github.com/NX1X/My-Home-Lab)**. 
