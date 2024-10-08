@@ -46,6 +46,7 @@ Aside from using these tools at work, I'm also setting up a home lab. **[Home La
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![MX Toolbox](https://img.shields.io/badge/MX_Toolbox-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgBjZK/SgNBEMZ/e3uXQIQUKUwhiI1gY2FjYeEDiJVPIFj4AhaC+AaCjY8gPoCNjYVoI4iFlSAopPAvJHe7O+OsXkhiEgeWnZlvvvl2bkVVKTvOuQYwBXSMMYdlO1K280+QUsBr4yk/KQTvfeN6Y/PeGFOLouhmOBw2VXXCGEOapniPIRBPqrpkVDVX1YvR6P0GaItIxVqLiGCMsC+ZTJwAiAipOkxW8IW3QWbP+6PyPfpOOpCXZJKWUTXAGuQ7/usrs0T+I890ANZRtT+rU2vXoXNc8V5MzXBti8Hd0qLqkqqm2mUfOAHOgZU8Dy1AB9gCzowxw+AfeWWQ7qBOpx9Oq13gEHjg3zoBPmtc0TjXTvMAAAAASUVORK5CYII=&logoColor=white)
+![WordPress Security](https://img.shields.io/badge/WordPress_Security-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 > I scan my projects for vulnerabilities with [Snyk.io](https://snyk.io)
 
