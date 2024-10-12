@@ -119,13 +119,9 @@ Passionate about exploring the latest advancements in Artificial Intelligence an
 I've been a Google Maps contributor since 2018, with over 70 million views on my contributions!
 
 ---
-
-details>
-  <summary>:zap: My GitHub Stats</summary>
+<summary>:zap: My GitHub Stats</summary>
   &emsp;
-<div>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nx1x&" alt="nx1x" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nx1x&show_icons=true&locale=en" alt="nx1x" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nx1x&show_icons=true&locale=en&layout=compact" alt="nx1x" /></p>
-</div>
-</details>
+
