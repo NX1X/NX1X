@@ -116,7 +116,7 @@ Passionate about exploring the latest advancements in Artificial Intelligence an
 
 ### 🌍 Fun Fact
 
-I've been a Google Maps contributor since 2018, with over 70 million views on my contributions!
+I'm a Google Maps Editor since 2018, with over 70 million views on my contributions.
 
 ---
 <summary>:zap: My GitHub Stats</summary>
