@@ -1,4 +1,4 @@
-## System Administrator & DevOps Engineer | Security-Minded Professional | AI & ML Geek.
+## System Administrator | Security-Minded Professional | AI & ML Geek.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenporat)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nx1x)
@@ -6,14 +6,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nx1xlab.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NX1XLab)
 ---
+Watch my homelab project here -> **[Home Lab Repository Link](https://github.com/NX1X/My-Home-Lab)**. 
 
-### 🛠️ Technologies & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### System Administration
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Exchange](https://img.shields.io/badge/Microsoft_Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -23,21 +20,24 @@
 ![IBM Tivoli](https://img.shields.io/badge/IBM_Tivoli-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![BackupAssist](https://img.shields.io/badge/BackupAssist-00A98F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEKSURBVHgBjVK7TsMwFLzYDqWqGNiQmBBiYmRhY2DmC/gFPoEfQAz8AUj8AH8AEgOIFSEmJKRKFURTN6T1s304V6K0tJzk+OXl7uz5YcyG8TzvFr6B701oPtAceuu6XozeeYLX67okIqrEcfwqgcsY3/f3UH2Bz9M0vfd9/1ApRYjxoMgS9JIkuYXoEbxAxEWe5xMhmIDTNL1R8Iacc3LQNN1utygDc9M0T5jrqqq6KMsSdfkNTMMwhP6apg8g3vR9z+q6Bkm0bfsO4hvcPziEvwL9DZQ+mQm6rtsry5ITvdI7joM5sYIgYC6ZRWVZsmEYuOM4pC32/ydjzLmUkmVZRlEUEYJjFl3X/QKm1ilj9xOenQAAAABJRU5ErkJggg==&logoColor=white)
 ![Dell Servers](https://img.shields.io/badge/Dell_Servers-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![HP](https://img.shields.io/badge/HP_Switch-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+### DevOps & Cloud Technologies
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Aside from using these tools at work, I'm also setting up a home lab. **[Home Lab Repository Link](https://github.com/NX1X/My-Home-Lab)**. 
 
 ### 🔒 Security Tools
 
