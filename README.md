@@ -63,16 +63,13 @@ Watch my homelab project here -> **[Home Lab Repository Link](https://github.com
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
 
 
-### 🧠 AI and ML Tools
+### 🧠 AI Tools
 
 ![Cursor](https://img.shields.io/badge/Cursor-00FFFF?style=for-the-badge&logo=cursor&logoColor=black)
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-5835CC?style=for-the-badge&logo=perplexity&logoColor=white)
 
-#### Currently Exploring
-![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
