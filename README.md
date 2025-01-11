@@ -1,4 +1,4 @@
-## System Administrator with DevOps orientation | Security-Minded Professional | AI & ML Geek.
+## System Administrator with DevOps orientation | Security-Minded Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenporat)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nx1x)
@@ -60,14 +60,6 @@
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E5F?style=for-the-badge&logo=monday.com&logoColor=white)
-
-
-### 🧠 AI Tools
-
-![Cursor](https://img.shields.io/badge/Cursor-00FFFF?style=for-the-badge&logo=cursor&logoColor=black)
-![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-5835CC?style=for-the-badge&logo=perplexity&logoColor=white)
 
 
 ---
