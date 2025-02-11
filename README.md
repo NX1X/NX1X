@@ -79,7 +79,8 @@
 - [Mey7](https://mey7.co.il/) (Twice) - Regional water and sewage corporation
 - [Ben Gurion University](https://bgu.ac.il)
 - [Tel Aviv University](https://tau.ac.il)
-- [Beer Sheeba Municipality](https://www.beer-sheva.muni.il/Pages/default.aspx)
+- [Be'er-Sheva Municipality](https://www.beer-sheva.muni.il/Pages/default.aspx)
+- [Moodle](https://moodle.org)
 
 Reporting to:
 - [INCD (Israel National Cyber Directorate)](https://cyber.gov.il)
