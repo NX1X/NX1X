@@ -101,7 +101,7 @@ Reporting to:
 
 ### 🧠 AI & ML Geek
 
-Passionate about exploring the latest advancements in Artificial Intelligence and Machine Learning, with a focus on their applications in cybersecurity and DevOps.
+Passionate about exploring the latest advancements in Artificial Intelligence and Machine Learning, with a focus on their applications in Cybersecurity and DevOps.
 
 ---
 
