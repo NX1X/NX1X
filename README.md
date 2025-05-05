@@ -99,12 +99,6 @@ Reporting to:
 
 ---
 
-### 🧠 AI & ML Geek
-
-Passionate about exploring the latest advancements in Artificial Intelligence and Machine Learning, with a focus on their applications in Cybersecurity and DevOps.
-
----
-
 ### 🌍 Fun Fact
 
 I'm a Google Maps Editor since 2018, with over 70 million views on my contributions.
