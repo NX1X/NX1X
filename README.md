@@ -70,7 +70,6 @@
 - [SayMine.com](https://www.saymine.com/) - Raised over $42M
 - [DuckDuckGo App Protection](https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/) - The largest privacy-focused search engine, raised over $170M
 - [Zest](https://zest.is/) - Acquired by [WalkMe](https://www.walkme.com)
-- [Warp for Windows](https://www.warp.dev/) - Closed Beta for Windows version.
 ---
 
 ### 🛡️ Security Breaches Found & Reported
