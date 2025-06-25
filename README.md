@@ -181,16 +181,6 @@ Found and responsibly disclosed vulnerabilities in:
 
 </div>
 
----
-
-## 🎲 Random Facts About Me
-
-- 🐛 I debug infrastructure issues the same way I debug life - with lots of logging and occasional panic
-- 🔐 I believe the best security is the one that doesn't annoy users (much)
-- 📚 I read vulnerability reports for fun (yes, I need help)
-
----
-
 ## 🌐 Around the Web
 
 <div align="center">
@@ -201,38 +191,6 @@ Found and responsibly disclosed vulnerabilities in:
 | 💼 [LinkedIn](https://www.linkedin.com/in/edenporat) | Professional networking |
 | 🗺️ Google Maps | Making sure you don't get lost |
 | 🔒 Security Forums | Sharing knowledge responsibly |
-
-</div>
-
----
-
-## 💭 Current Mood
-
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.coffee_level = "dangerously_low"
-        self.infrastructure_status = "it_works_dont_touch_it"
-        self.monitoring_alerts = []
-        self.current_task = "making_things_that_shouldnt_break_not_break"
-    
-    def weekend_plans(self):
-        return "probably_fixing_something_that_broke_on_friday"
-```
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*Always up for discussing DevOps, security, or why your monitoring setup is probably inadequate* 😉
-
-**"The best code is the one that works in production and doesn't require a PhD to understand"**
-
----
-
-*Made with ❤️, lots of ☕, and a healthy dose of 🤯*
 
 </div>
 
