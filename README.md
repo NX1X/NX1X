@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Eden Porat
+# Hey there! 👋 I'm Eden
 
 **DevOps Engineer | Ex-SysAdmin | Security Researcher**
 
