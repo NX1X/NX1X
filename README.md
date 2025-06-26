@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Eden
 
-**DevOps Engineer | Ex-SysAdmin | Security Researcher**
 
 *Building secure, scalable infrastructure while breaking things responsibly* 🔧⚡
 
