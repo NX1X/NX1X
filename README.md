@@ -1,5 +1,6 @@
 # Hey there! 👋 I'm Eden
 
+System Administrator with DevOps orientation | Builder | Security-Minded
 
 *Building secure, scalable infrastructure while breaking things responsibly* 🔧⚡
 
