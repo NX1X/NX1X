@@ -151,6 +151,6 @@ I believe in:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nx1x&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF)
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=NX1X&mode=weekly)](https://git.io/streak-stats))
 
 </div>
