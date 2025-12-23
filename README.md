@@ -151,6 +151,5 @@ I believe in:
 
 <div align="center">
 
-![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=NX1X&mode=weekly)](https://git.io/streak-stats))
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NX1X)
 </div>
